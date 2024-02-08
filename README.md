@@ -1,5 +1,7 @@
 # deep_linking_expample
 
+https://isroiljoncyber.github.io/deep_linking_expample/.well-known/assetlinks.json
+
 A new Flutter project.
 
 ## Getting Started
