@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.deep_linking_expample",
+    "package_name": "com.example.uva_mobile",
     "sha256_cert_fingerprints":
     ["77:9C:D0:2E:AC:F7:13:FC:9F:B7:A4:53:90:D5:E4:F1:C0:F8:8C:95:BA:E1:4D:10:18:E8:E8:8E:87:5E:4F:DA"]
   }
